@@ -1,0 +1,2 @@
+(this["webpackJsonpisunyuan.github.io"]=this["webpackJsonpisunyuan.github.io"]||[]).push([[0],{11:function(n,e,t){"use strict";t.r(e);t(0);var i=t(3),u=t.n(i),s=(t(8),t(9),t(1)),c=function(){return Object(s.jsx)("div",{children:"app page"})};u.a.render(Object(s.jsx)(c,{}),document.getElementById("muggle"))},9:function(n,e,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.4babb94e.chunk.js.map
