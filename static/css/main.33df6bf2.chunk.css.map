@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/styles/global.scss"],"names":[],"mappings":"AAAA,UACI,qBAAsB,CACtB,gBAAiB,CACjB,sBAAuB,CACvB,4BAA6B,CAC7B,eAAgB","file":"main.33df6bf2.chunk.css","sourcesContent":["body, html {\n    box-sizing: border-box;\n    min-height: 100vh;\n    scroll-behavior: smooth;\n    text-rendering: optimizeSpeed;\n    line-height: 1.5;\n}\n"]}
