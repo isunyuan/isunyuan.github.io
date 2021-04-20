@@ -16,6 +16,16 @@
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+      "prettier --single-quote --write"
+    ]
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -43,6 +53,9 @@
   },
   "devDependencies": {
     "add": "^2.0.6",
+    "husky": "^4.3.8",
+    "lint-staged": "^10.5.4",
+    "prettier": "^2.2.1",
     "source-map-explorer": "^2.5.2",
     "yarn": "^1.22.10"
   }

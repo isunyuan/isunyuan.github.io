@@ -1,11 +1,8 @@
 /**
- * index entrance 
+ * index entrance
  */
 
 import ReactDOM from 'react-dom';
 import App from './app';
 
-ReactDOM.render(
-    <App />,
-    document.getElementById('muggle'),
-)
+ReactDOM.render(<App />, document.getElementById('muggle'));
