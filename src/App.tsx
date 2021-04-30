@@ -2,12 +2,6 @@
  * app
  */
 
-const App = () => {
-    return (
-        <div>
-            app page
-        </div>
-    )
-}
+const App = () => <div>app page</div>;
 
 export default App;
