@@ -1,0 +1,2 @@
+(this["webpackJsonpblog.isunyuan.com"]=this["webpackJsonpblog.isunyuan.com"]||[]).push([[0],{9:function(n,e,t){"use strict";t.r(e);var c=t(3),s=t.n(c),u=t(0),i=function(){return Object(u.jsx)("div",{children:"app page"})};s.a.render(Object(u.jsx)(i,{}),document.getElementById("muggle"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.2b5c57bc.chunk.js.map

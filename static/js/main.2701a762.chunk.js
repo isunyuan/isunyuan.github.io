@@ -1,2 +1,0 @@
-(this["webpackJsonpisunyuan.github.io"]=this["webpackJsonpisunyuan.github.io"]||[]).push([[0],{174:function(n,e,t){"use strict";t.r(e);t(8);var u=t(59),i=t.n(u),r=(t(65),t(66),t(60)),c=t.n(r),s=t(9),o=function(n){var e=n.md;return Object(s.jsx)(c.a,{children:e})};o.defaultProps={md:""};var d=o,a=function(){return Object(s.jsx)("div",{children:Object(s.jsx)(d,{md:"# Hello, *world*!"})})};i.a.render(Object(s.jsx)(a,{}),document.getElementById("muggle"))},66:function(n,e,t){}},[[174,1,2]]]);
-//# sourceMappingURL=main.2701a762.chunk.js.map
