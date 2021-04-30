@@ -42,6 +42,7 @@
 			}
 		],
 		"react/jsx-filename-extension": [2, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
-		"@typescript-eslint/no-explicit-any": "off"
+		"@typescript-eslint/no-explicit-any": "off",
+		"indent": [4, "tab"]
     }
 }
