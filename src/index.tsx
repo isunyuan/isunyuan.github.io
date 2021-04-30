@@ -3,6 +3,6 @@
  */
 
 import ReactDOM from 'react-dom';
-import AppComponent from './app';
+import AppComponent from './App';
 
 ReactDOM.render(<AppComponent />, document.getElementById('muggle'));
